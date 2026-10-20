@@ -1,6 +1,6 @@
 ## Olá, sou o Raphael👋
-- 🔎 Atualmente estou estudando no Análise e desenvolvimento de sistemas na Fatec
-- 🌱 Estou aprendendo Java, HTML, CSS e JavaScript
+- 🔎 Atualmente estou estudando no Análise e desenvolvimento de sistemas na Fatec.
+- 🌱 Estou aprendendo Java, HTML, CSS, JavaScript, PHP e MySQL na faculdade.
 - ✉️ Aqui está meu contato: raphamarcus777@gmail.com
   
 <!--
